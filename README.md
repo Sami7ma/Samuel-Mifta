@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Samuel Mifta**, a software engineer building web apps, cross-platform mobile apps and desktop systems.
 
-**Live:** https://sami7ma.github.io/Sami7ma/
+**Live:** [Samuel MIfta](https://sami7ma.github.io/Samuel-Mifta/)
 
 ## Featured work
 
